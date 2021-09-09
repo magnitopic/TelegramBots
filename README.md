@@ -3,7 +3,7 @@
 In this repository you will find all the Telegram bots I've programed.
 Some of them have their own repos because of their complexity, but they are still include in this one.
 
-It's designed so that you can run any of the bots from this one repo. Just type your TOKEN in an _.env_ file, chouse a bot and run it.
+It's designed so that you can run any of the bots from this one repo. Just type your TOKEN in an _.env_ file, choose a bot and run it.
 
 ## Set up
 
@@ -34,4 +34,4 @@ Now try talking with your bot.
 | Bot Name | Function | File Name |
 | - | - | - |
 | Base | It is the base template for developing better | Base.py |
-| DonQuijoteBot | Takes user mesagges and reponds with how many times it apears in _[Don Quijote](https://en.wikipedia.org/wiki/Don_Quixote)_ | DonQuijoteBot.py |
+| DonQuijoteBot | Reponds the number of times a user's message appears in  _[Don Quijote](https://en.wikipedia.org/wiki/Don_Quixote)_ | DonQuijoteBot.py |
