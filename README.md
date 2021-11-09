@@ -34,4 +34,5 @@ Now try talking with your bot.
 | Bot Name | Function | File Name |
 | - | - | - |
 | Base | It is the base template for developing better | Base.py |
-| DonQuijoteBot | Reponds the number of times a user's message appears in  _[Don Quijote](https://en.wikipedia.org/wiki/Don_Quixote)_ | DonQuijoteBot.py |
+| DonQuijoteBot | Reponds the number of times a user's message appears in  [Don Quijote](https://en.wikipedia.org/wiki/Don_Quixote) | DonQuijoteBot.py |
+|CryptoBot|Responds with updated prices on Cryptocurrencies|Separate repo:  [CryptoBot](https://github.com/magnitopic/TelegramCryptoBot)|
